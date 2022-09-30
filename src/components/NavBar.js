@@ -3,7 +3,7 @@ import { NavLink } from "react-router-dom";
 
 function NavBar() {
   return (
-    <div
+       <div
       style={{
         borderBottom: "2px solid black",
         paddingBottom: "10px",
